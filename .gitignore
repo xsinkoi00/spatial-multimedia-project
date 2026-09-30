@@ -9,3 +9,6 @@
 
 # Ignore Gradle build output directory
 /build
+
+# Ignore Eclipse/VS Code Java compiler output directory
+/bin
